@@ -1,4 +1,4 @@
-package com.lph.abstraction;
+package com.lph.abstraction.Shape2D;
 
 public abstract class Shape2D {
 
